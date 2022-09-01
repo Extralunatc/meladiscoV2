@@ -1,0 +1,49 @@
+body {
+  background-color: #302C2C;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #494646;
+  border-width: 10px;
+  width: 10%;
+  vertical-align: baseline;
+}
+
+img {
+  height: 600px;
+}
+
+.avatar>img {
+  height: 400px;
+  border-radius: 50%;
+}
+
+.soundcloud-icon>iframe {
+  border-color: #A8FF3E;
+  border-width: 5px;
+  width: 5px;
+}
+
+.bandcamp-icon>iframe {
+  border-color: #A8FF3E;
+}
+
+.player>iframe {
+  background-color: #302C2C;
+  border-color: #A8FF3E;
+  border-width: thick;
+  width: 40%;
+}
+
+h1 {
+  color: #A8FF3E;
+}
+
+h2 {
+  color: #32FF6A;
+}
+
+h4 {
+  color: #F4FF61;
+}
